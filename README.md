@@ -102,16 +102,13 @@ The webcam frame is successfully saved as:
 ### iii) Resized Video
 The video is resized to:
 
-```bash
-640 × 480
-```
+<img width="592" height="354" alt="image" src="https://github.com/user-attachments/assets/55c76aaf-1694-4fff-9579-ff628da1a0b6" />
 
 ### iv) Rotated Video
 The video feed is rotated by:
 
-```bash
-90° Clockwise
-```
+<img width="630" height="349" alt="image" src="https://github.com/user-attachments/assets/19f84751-fefa-40ef-82ff-95ccf4ee7683" />
+
 
 ## 👨‍💻 Developed By
 
