@@ -17,15 +17,6 @@ To develop a Python program using OpenCV that can:
 
 ---
 
-## 🛠️ Technologies Used
-
-- Python 3.7
-- OpenCV (`cv2`)
-- Anaconda
-- Jupyter Notebook / VS Code
-
----
-
 ## 📂 Project Workflow
 
 ### Step 1
