@@ -93,12 +93,11 @@ video.release()
 ### i) Captured JPG Image
 The webcam frame is successfully saved as:
 
-```bash
-captured_image.jpg
-```
+<img width="266" height="461" alt="image" src="https://github.com/user-attachments/assets/d1e6d387-ef03-408b-8ff7-fd368ba1af55" />
+
 
 ### ii) Live Video Display
-The original webcam video stream is displayed.
+<img width="267" height="441" alt="image" src="https://github.com/user-attachments/assets/3f917641-6918-48ba-9118-dfe47d2f4c8a" />
 
 ### iii) Resized Video
 The video is resized to:
